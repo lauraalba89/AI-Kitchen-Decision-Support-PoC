@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+openpyxl
+python-dotenv
+google-genai
+torch
+chronos-forecasting
+# Optional for forecasting comparison notebook: nixtla
