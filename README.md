@@ -38,7 +38,6 @@ This project was developed through academic research, practical experimentation,
 - `DataSet/` – Historical sales and ingredient datasets.
 - `Results/` – Saved forecasting results.
 - `notebooks/` – Research experiments and analysis.
-- `tests/` – Exploratory scripts and alternative interface.
 - `requirements.txt` – Python dependencies.
 
 ## Data Sources and Acknowledgements
